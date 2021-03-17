@@ -10,6 +10,7 @@ Changes implemented:
 * `CapsLock` is deactivated and set to `ESCAPE`. While not neccessary, it is a personal preference (and helpful for VIM).
 
 *NOTE: For the Umlaut feature I had to swap **LEFT-ALT** with **ALT-GR**. This can lead to confusion when used in some apps.*
+
 *NOTE: `CONTROL` and `⌘` (aka. the Windows key) are swapped. This means that all Windows key shortcuts are now activated using `CONTROL`.*
 
 
